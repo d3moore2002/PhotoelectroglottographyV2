@@ -2,7 +2,7 @@
 ## UC San Diego Bioengineering Capstone: 2025-26.
 
 ### Mentors: Will Styler, Marc Garellek
-### Team 5: Donovan Moore (drmoore.dm2002@gmail.com), Isaiah Mitchell (), Amir Hojaiji ()
+### Team 5: Donovan Moore (drmoore.dm2002@gmail.com), Isaiah Mitchell (isaiahmitchell358@gmail.com), Amir Hojaiji ()
 
 ## Problem Statement
 There is a need for a non-invasive, low-cost instrument capable of reliably recognizing changes in laryngeal aperture during speech in a research and in future iterations, perhaps a medical setting. 
